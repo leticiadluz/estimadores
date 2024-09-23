@@ -1,4 +1,4 @@
-# Estimadores e métricas de avaliação em Machine Learning
+# Estimadores e Métricas de Avaliação em Machine Learning
 
 Aqui você encontra resumos detalhados sobre o funcionamento dos estimadores em Machine Learning, além de métricas de avaliação aplicáveis a problemas de classificação e regressão.
 
